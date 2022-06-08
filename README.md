@@ -7,6 +7,12 @@ My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis an
 Currently working as a Software Engineer at Asaas Gestão Financeira S/A. 🌃
 
 
+ <div>
+  <a href="https://github.com/Mikael-Asaas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikael-Asaas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Asaas&layout=compact&langs_count=7&theme=aura"/>
+</div>
+
 
 ## "My mind is my greatest power" 🧠
 
@@ -19,13 +25,6 @@ Currently working as a Software Engineer at Asaas Gestão Financeira S/A. 🌃
   <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  </div>
-
- <div>
-  <a href="https://github.com/Mikael-Asaas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikael-Asaas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Asaas&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
 
 ### Contact
 
