@@ -4,7 +4,7 @@ My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis an
 
 <img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="150"/>
 
-Currently working as a Software Engineer at Asaas Gestão Financeira🌃 S/A. 🌃
+Currently working as a Software Engineer at Asaas Gestão Financeira S/A. 🌃
 
 
 
