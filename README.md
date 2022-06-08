@@ -6,19 +6,17 @@ My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis an
 
 Currently working as a Software Engineer at Asaas Gestão Financeira S/A. 🌃
 
+## "My mind is my greatest power" 🧠
+
+- 📍 From Santa Catarina living in Joinville.
+- 💻 Software Engineer intern
+- 📚 Systems analysis and development student.
 
  <div>
   <a href="https://github.com/Mikael-Asaas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mikael-Asaas&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Asaas&layout=compact&langs_count=7&theme=aura"/>
 </div>
-
-
-## "My mind is my greatest power" 🧠
-
-- 📍 From Santa Catarina living in Joinville.
-- 💻 Software Engineer intern
-- 📚 Systems analysis and development student.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
