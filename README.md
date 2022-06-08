@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hey! Welcome to my profile! How is it going? 👋
 
-<!--
-**Mikael-Asaas/Mikael-Asaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille). 📚
 
-Here are some ideas to get you started:
+<img align="right" src="https://github.com/Mikaelsbernes/Mikaelsbernes/raw/main/computer-illustration.png" widht="150"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working as a Software Engineer at Asaas Gestão Financeira🌃 S/A. 🌃
+
+
+
+## "My mind is my greatest power" 🧠
+
+- 📍 From Santa Catarina living in Joinville.
+- 💻 Software Engineer intern
+- 📚 Systems analysis and development student.
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ </div>
+
+### Contact
+
+[![Instagram Badge](https://img.shields.io/badge/-@Mikaelsbernes-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/mikaelsbernes/)](https://www.instagram.com/mikaelsbernes/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mikael%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaelsbernes/)](https://www.linkedin.com/in/mikaelsbernes/) 
+[![Gmail Badge](https://img.shields.io/badge/-Mikaelsbernes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelsbernes@gmail.com)](mailto:mikaelsbernes@gmail.com)
