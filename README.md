@@ -1,26 +1,46 @@
-# Hey! Welcome to my profile! How is it going? 👋
+# Hey! My name is Mikael! How is it going? 👋
 
-My name is Mikael Soares Bernes, I'm from Brazil , I am a student of Analysis and Systems Development at the University of Joinville region (Univille). 📚
-
-Currently working as a Software Engineer at Asaas Gestão Financeira S/A. 🌃
-
-## "My mind is my greatest power" 🧠
-
-- 📍 From Santa Catarina living in Joinville.
-- 💻 Software Engineer intern
-- 📚 Systems analysis and development student.
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mikael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mikael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mikael-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Mikael-GROOVY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
-   <img align="center" alt="Mikael-GROOVY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg">
+<p align="left">
+  i'm <i> Software Engineer intern</i> at <strong>@asaas 🚀</strong>
+ </p>
  
- </div>
+ ## Graduation 🎓
+ 📚 Student in <strong>Analysis and Systems Development</strong>
 
-### Contact
+## Skills 🧠
 
-[![Instagram Badge](https://img.shields.io/badge/-@Mikaelsbernes-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/mikaelsbernes/)](https://www.instagram.com/mikaelsbernes/) 
-[![Linkedin Badge](https://img.shields.io/badge/-Mikael%20Soares-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mikaelsbernes/)](https://www.linkedin.com/in/mikaelsbernes/) 
-[![Gmail Badge](https://img.shields.io/badge/-Mikaelsbernes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mikaelsbernes@gmail.com)](mailto:mikaelsbernes@gmail.com)
+<p>
+<img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
+<img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60">
+<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
+<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
+<img alt="spring-boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60">
+<img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="60" />
+<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
+<img alt="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="60"/>
+<img alt="Grails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="60"/>
+</p>
+
+## Tools 🛠️
+
+<p>
+<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
+<img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" />
+<img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" />
+<img alt="Intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" />
+<img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" />
+</p>
+
+## Contact
+
+<p align="left">
+<a href="https://www.instagram.com/mikaelsbernes/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
+<a href="https://www.linkedin.com/in/mikaelsbernes/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode" /></a>
+<a href = "mailto:mikaelsbernes@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+</p>
+
+
