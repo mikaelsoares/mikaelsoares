@@ -1,7 +1,7 @@
 # Hey! My name is Mikael! How is it going? 👋
 
 <p align="left">
-  i'm <i> Software Engineer intern</i> at <strong>@asaas 🚀</strong>
+  i'm <i> Software Engineer Jr</i> at <strong>@asaas 🚀</strong>
  </p>
  
  ## Graduation 🎓
