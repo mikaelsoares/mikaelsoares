@@ -1,39 +1,18 @@
-# Hey! My name is Mikael! How is it going? 👋
+### Hey! My name is Mikael! How is it going? 👋
+I have been a software developer since 2022, possessing significant experience in large-scale projects that benefit thousands of users. I work daily for the fintech Asaas and for the startup Sem-Rotina.
+ https://www.asaas.com
+### Graduation 🎓
+ Analysis and Systems Development
 
-<p align="left">
-  i'm <i> Software Engineer</i> at <strong>@asaas 🚀</strong>
- </p>
- 
- ## Graduation 🎓
- 📚 Student in <strong>Analysis and Systems Development</strong>
+### Stack 🧠
+<div style="display: flex;"> 
+	<img height="70" src="https://skillicons.dev/icons?i=java,spring,ts,js,vue,css,bootstrap,docker,postman,mysql&perline=5"/>
+  <br>
+  <img alt="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="30"/>
+  <img alt="Grails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="30"/>
+</div>
 
-## Skills 🧠
-
-<p>
-<img alt="Java" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
-<img alt="SASS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="60">
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60">
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60">
-<img alt="spring-boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60">
-<img alt="bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="60" />
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-<img alt="Groovy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" width="60"/>
-<img alt="Grails" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grails/grails-original.svg" width="60"/>
-</p>
-
-## Tools 🛠️
-
-<p>
-<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" />
-<img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" />
-<img alt="figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60" />
-<img alt="Intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="60" />
-<img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="60" />
-</p>
-
-## Contact
-
+### Contact
 <p align="left">
 <a href="https://www.instagram.com/mikaelsbernes/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/iuricoding/"/></a>
