@@ -1,7 +1,10 @@
 ### Hey! My name is Mikael! How is it going? 👋
 I have been a software developer since 2022, possessing significant experience in large-scale projects that benefit thousands of users. I work daily for the fintech Asaas and for the startup Sem-Rotina.
 ### Graduation 🎓
- Analysis and Systems Development
+ - Analysis and Systems Development
+ - Software Architecture
+ - Project Management
+ 
 
 ### Stack 🧠
 <div style="display: flex;"> 
